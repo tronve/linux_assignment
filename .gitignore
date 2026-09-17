@@ -1,0 +1,13 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.a
+*.so
+*.order
+*.symvers
+.tmp_versions/
+vmlinux
+System.map
+arch/arm64/boot/Image
